@@ -1,0 +1,36 @@
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.MainForm.resources
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.PlayerInfo.resources
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
+C:\Users\Cyberadmin\Desktop\C # programming\DialogBox\DialogBox\obj\Debug\DialogBox.PokerGame.resources
+D:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+D:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+D:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csprojResolveAssemblyReference.cache
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.MainForm.resources
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.PlayerInfo.resources
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.PokerGame.resources
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.Cache
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.CoreCompileInputs.cache
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+D:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
+G:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.exe.config
+G:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.exe
+G:\C#\DialogBox\DialogBox\bin\Debug\DialogBox.pdb
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csprojResolveAssemblyReference.cache
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.MainForm.resources
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.PlayerInfo.resources
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.PokerGame.resources
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.Cache
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.csproj.CoreCompileInputs.cache
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.exe
+G:\C#\DialogBox\DialogBox\obj\Debug\DialogBox.pdb
